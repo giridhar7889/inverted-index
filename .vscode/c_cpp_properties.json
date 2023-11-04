@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}",
+                "c:/Users/girid/OneDrive/Desktop/Jadala2",
+                "c:/MinGW/include",
+                "c:/MinGW/include/boost_1_83_0/boost_1_83_0/",
+                "c:/MinGW/include/zlib-1.2.11"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.19041.0",
+            "compilerPath": "C:/MinGW/bin/cpp.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "${default}",
+            "forcedInclude": [
+                
+            ],
+            "macFrameworkPath": [],
+            "compilerArgs": ["-I",
+                "C:\\MinGW\\include\\boost_1_83_0\\boost_1_83_0"]
+        }
+    ],
+    "version": 4
+}
